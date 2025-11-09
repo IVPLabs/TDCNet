@@ -14,7 +14,7 @@ Moving infrared small target detection (IRSTD) plays a critical role in practica
 
 ## Visualization
 
-![image-20250407201214584](./assets/Visualization.png)
+![image-20250407201214584](./figs/vis_main.png)
 
 ## Environment
 
