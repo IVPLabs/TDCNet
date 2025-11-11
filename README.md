@@ -36,44 +36,45 @@ Visual comparison of results from SOTA methods and TDCNet on the IRSTD-UAV and I
    You can use the [GIM](https://github.com/xuelunshen/gim) method for background alignment.
 
 3. Organize the dataset structure as follows:
-   IRSTD-UAV/
-  ├── images/
-  │ ├── 1/
-  │ │ ├── 00000000.png
-  │ │ ├── 00000001.png
-  │ │ └── ...
-  │ ├── 2/
-  │ │ ├── 00000000.png
-  │ │ ├── 00000001.png
-  │ │ └── ...
-  │ └── ...
-  ├── labels/
-  │ ├── 1/
-  │ │ ├── 00000000.png
-  │ │ ├── 00000001.png
-  │ │ └── ...
-  │ ├── 2/
-  │ │ ├── 00000000.png
-  │ │ ├── 00000001.png
-  │ │ └── ...
-  │ └── ...
-  ├── matches/
-  │ ├── 1/
-  │ │ ├── 00000000/
-  │ │ │ ├── match_1.png
-  │ │ │ ├── match_2.png
-  │ │ │ └── ...
-  │ │ ├── 00000001/
-  │ │ │ ├── match_1.png
-  │ │ │ ├── match_2.png
-  │ │ │ └── ...
-  │ │ └── ...
-  │ └── ...
-  ├── train.txt
-  ├── val.txt
-  ├── train_coco.json
-  └── val_coco.json
-
+   '''
+     IRSTD-UAV/
+     ├── images/
+     │ ├── 1/
+     │ │ ├── 00000000.png
+     │ │ ├── 00000001.png
+     │ │ └── ...
+     │ ├── 2/
+     │ │ ├── 00000000.png
+     │ │ ├── 00000001.png
+     │ │ └── ...
+     │ └── ...
+     ├── labels/
+     │ ├── 1/
+     │ │ ├── 00000000.png
+     │ │ ├── 00000001.png
+     │ │ └── ...
+     │ ├── 2/
+     │ │ ├── 00000000.png
+     │ │ ├── 00000001.png
+     │ │ └── ...
+     │ └── ...
+     ├── matches/
+     │ ├── 1/
+     │ │ ├── 00000000/
+     │ │ │ ├── match_1.png
+     │ │ │ ├── match_2.png
+     │ │ │ └── ...
+     │ │ ├── 00000001/
+     │ │ │ ├── match_1.png
+     │ │ │ ├── match_2.png
+     │ │ │ └── ...
+     │ │ └── ...
+     │ └── ...
+     ├── train.txt
+     ├── val.txt
+     ├── train_coco.json
+     └── val_coco.json
+   '''
 ## How To Train
 
 1. **Prepare the environment and dataset**
