@@ -59,7 +59,7 @@ class seqDataset(Dataset):
         dir_path = file_name.replace('images', 'matches').replace('.png', '')
         images = []
         for i in range(self.num_frame):
-            img_path = os.path.join(dir_path, f"match_{i + 3}.png")
+            img_path = os.path.join(dir_path, f"match_{i + 1}.png")
             img = Image.open(img_path)
             img = cvtColor(img)
             iw, ih = img.size
