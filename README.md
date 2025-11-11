@@ -92,7 +92,7 @@ Visual comparison of results from SOTA methods and TDCNet on the IRSTD-UAV and I
 2. **Training command**
    ```bash
    python train.py
-
+   ```
 
 ## How To Test
 ```bash
