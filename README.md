@@ -29,7 +29,7 @@ Visual comparison of results from SOTA methods and TDCNet on the IRSTD-UAV and I
 
 ## Data
 1. Download the datasets.
-   - [IRSTD-UAV](https://drive.google.com/file/d/17kgt2i09njcvjbtX3ivn884Lw6Ov2xb1/view)
+   - [IRSTD-UAV](https://drive.google.com/file/d/1orHDqG-nLYBSdJETyt6ozpAGOSoKiT-k/view)
    - [IRDST](https://xzbai.buaa.edu.cn/datasets.html)
 
 2. Perform background alignment before training or testing.  
