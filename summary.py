@@ -13,7 +13,7 @@ from model.TDCNet.TDCNetwork import TDCNetwork
 from model.TDCNet.TDCR import RepConv3D
 
 if __name__ == "__main__":
-    input_shape = [512, 512]
+    input_shape = [640, 640]
     num_classes = 1
 
     # 需要使用device来指定网络在GPU还是CPU运行8824
