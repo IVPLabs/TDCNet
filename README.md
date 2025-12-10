@@ -46,8 +46,6 @@ Visual comparison of results from SOTA methods and TDCNet on the IRSTD-UAV and I
 
 We constructed the IRSTD-UAV dataset, which contains 17 real infrared video sequences with 15,106 frames. It features small targets in complex backgrounds such as buildings, trees, and clouds, providing a realistic benchmark for UAV-based IRSTD. If you use this dataset, please cite our work [[`BibTex`](#citation)], thank you!
 
-   - [IRDST](https://xzbai.buaa.edu.cn/datasets.html)
-
 2. Perform background alignment before training or testing.  
    You can use the [GIM](https://github.com/xuelunshen/gim) method for background alignment.
 
