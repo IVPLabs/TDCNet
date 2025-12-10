@@ -1,11 +1,21 @@
-# TDCNet
-Official repository of the AAAI 2026 paper "Spatio-Temporal Context Learning with Temporal Difference Convolution for Moving Infrared Small Target Detection".
-
-## Spatio-Temporal Context Learning with Temporal Difference Convolution for Moving Infrared Small Target Detection [[PDF](https://arxiv.org/pdf/2511.09352)]  
+<div align="center">
+  
+## Spatio-Temporal Context Learning with Temporal Difference Convolution for Moving Infrared Small Target Detection
 
 Authors: Houzhang Fang<sup>1</sup>, Shukai Guo<sup>1</sup>, Qiuhuan Chen<sup>1</sup>, Yi Chang<sup>2</sup>, Luxin Yan<sup>2</sup>
   
 <sup>1</sup>Xidian University,  <sup>2</sup>Huazhong University of Science and Technology
+
+**Proceedings of the AAAI Conference on Artificial Intelligence 2026**
+
+<h4>
+  <a href="https://arxiv.org/pdf/2511.09352">[PDF]</a>
+  <a href="#citation">[BibTex]</a>
+</h4>
+
+</div>
+
+
 
 ## Abstract
 
@@ -30,9 +40,12 @@ Visual comparison of results from SOTA methods and TDCNet on the IRSTD-UAV and I
 - [OpenCV (cv2)](https://opencv.org/)
 - [NumPy](https://numpy.org/)
 
-## Data
-1. Download the datasets.
-   - [IRSTD-UAV (ours)](https://drive.google.com/file/d/1orHDqG-nLYBSdJETyt6ozpAGOSoKiT-k/view): We constructed the IRSTD-UAV dataset, which contains 17 real infrared video sequences with 15,106 frames. It features small targets in complex backgrounds such as buildings, trees, and clouds, providing a realistic benchmark for UAV-based IRSTD. If you use this dataset, please cite our work, thank you!
+## Dataset Download Link
+1. Our custom-built dataset (IRSTD-UAV) can be downloaded via the following link:
+   - Download Dataset Here -[Google Drive](<https://drive.google.com/file/d/1orHDqG-nLYBSdJETyt6ozpAGOSoKiT-k/view>)
+
+We constructed the IRSTD-UAV dataset, which contains 17 real infrared video sequences with 15,106 frames. It features small targets in complex backgrounds such as buildings, trees, and clouds, providing a realistic benchmark for UAV-based IRSTD. If you use this dataset, please cite our work [[`BibTex`](#citation)], thank you!
+
    - [IRDST](https://xzbai.buaa.edu.cn/datasets.html)
 
 2. Perform background alignment before training or testing.  
