@@ -9,7 +9,7 @@ Authors: Houzhang Fang<sup>1</sup>, Shukai Guo<sup>1</sup>, Qiuhuan Chen<sup>1</
 **Proceedings of the AAAI Conference on Artificial Intelligence 2026**
 
 <h4>
-  <a href="https://arxiv.org/pdf/2511.09352">[PDF]</a>
+  <a href="https://arxiv.org/pdf/2511.09352">[PDF+Supplementary Material]</a>
   <a href="#citation">[BibTex]</a>
 </h4>
 
