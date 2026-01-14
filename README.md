@@ -33,18 +33,18 @@ Visual comparison of results from SOTA methods and TDCNet on the IRSTD-UAV and I
 
 ## Environment
 
-- [Python](https://www.python.org/)
-- [PyTorch](https://pytorch.org/)
-- [tqdm](https://github.com/tqdm/tqdm)
-- [pycocotools](https://github.com/cocodataset/cocoapi)
-- [OpenCV (cv2)](https://opencv.org/)
-- [NumPy](https://numpy.org/)
+- [Python==3.12.5](https://www.python.org/)
+- [PyTorch==2.7.0+cu126](https://pytorch.org/)
+- [tqdm==4.65.2](https://github.com/tqdm/tqdm)
+- [pycocotools==2.0.8](https://github.com/cocodataset/cocoapi)
+- [OpenCV (cv2)==4.12.0](https://opencv.org/)
+- [NumPy==2.2.6](https://numpy.org/)
 
 ## IRSTD-UAV Dataset 
 
 1. Our custom-built dataset (IRSTD-UAV) can be downloaded via the following link:
 
-- Download Dataset Here: [Google Drive](https://drive.google.com/file/d/1orHDqG-nLYBSdJETyt6ozpAGOSoKiT-k/view).
+- Download Weights and Datasets Here: [Google Drive](https://drive.google.com/file/d/1orHDqG-nLYBSdJETyt6ozpAGOSoKiT-k/view?usp=sharing).
 
 We construct the IRSTD-UAV dataset, comprising 17 real-world infrared video sequences with a total of 15,106 frames. Featuring small targets against complex backgrounds (e.g., buildings, trees, and clouds), it serves as a realistic benchmark for UAV-based moving infrared small target detection. If you utilize this dataset in your research, please cite our work [[`BibTex`](#citation)]. Thank you!
 
