@@ -126,7 +126,7 @@ If you find our work and our dataset IRSTD-UAV useful for your research, please 
   author    = {Houzhang Fang and Shukai Guo and Qiuhuan Chen and Yi Chang and Luxin Yan},
   booktitle   = {Proceedings of the AAAI Conference on Artificial Intelligence},
   year      = {2026},
-  pages     = { },
+  pages     = {3840-3848},
 }
 ```
 
