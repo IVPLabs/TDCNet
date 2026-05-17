@@ -10,6 +10,7 @@ Authors: Houzhang Fang<sup>1</sup>, Shukai Guo<sup>1</sup>, Qiuhuan Chen<sup>1</
 
 <h4>
   <a href="https://arxiv.org/pdf/2511.09352">[Paper PDF+Supplementary Material|arXiv]</a>
+  <a href="https://ojs.aaai.org/index.php/AAAI/article/view/37385/41347">[Paper PDF|AAAI]</a>
   <a href="#citation">[BibTex]</a>
 </h4>
 
