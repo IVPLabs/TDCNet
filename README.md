@@ -45,7 +45,7 @@ Visual comparison of results from SOTA methods and TDCNet on the IRSTD-UAV and I
 
 1. Our custom-built dataset (IRSTD-UAV) can be downloaded via the following link:
 
-- Download Weights and Datasets Here: [Baidu Netdisk](<https://pan.baidu.com/s/1Ksr9nQZlgpGAtOk4odtqdA?pwd=aaai>), [Google Drive](https://drive.google.com/file/d/1orHDqG-nLYBSdJETyt6ozpAGOSoKiT-k/view?usp=sharing). 
+- Download Weights and Datasets Here: [Baidu Netdisk](<https://pan.baidu.com/s/1YpvCmQNYzhFCTSC1_eo0hA?pwd=aaai>), [Google Drive](https://drive.google.com/file/d/1orHDqG-nLYBSdJETyt6ozpAGOSoKiT-k/view?usp=sharing). 
 
 We construct the IRSTD-UAV dataset, comprising 17 real-world infrared video sequences with a total of 15,106 frames. Featuring small targets against complex backgrounds (e.g., buildings, trees, and clouds), it serves as a realistic benchmark for UAV-based moving infrared small target detection. If you utilize this dataset in your research, please cite our work [[`BibTex`](#citation)]. Thank you!
 
